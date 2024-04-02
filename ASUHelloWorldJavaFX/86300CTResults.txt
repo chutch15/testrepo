@@ -1,0 +1,7 @@
+Patient ID: 86300
+The total Agatston CAC score: 100
+LM: 80
+LAD: 90
+LCX: 100
+RCA: 100
+PDA: 100
